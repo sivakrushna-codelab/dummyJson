@@ -1,0 +1,8 @@
+{
+  "success": false,
+  "statusCode": 500,
+  "error": "InternalServerError",
+  "message": "An unexpected error occurred. Please try again later.",
+  "traceId": "00-jkl012mno345-678pqr901stu-00",
+  "timestamp": "2025-08-28T15:50:00Z"
+}
